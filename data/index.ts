@@ -74,7 +74,7 @@ export const projects = [
   {
     id: 1,
     title: "Online E-Commerce Shop",
-    des: "Incredible e-commerce webshop with an admin dashboard and CMS.",
+    des: "Unique e-commerce webshop with an admin dashboard and CMS.",
     img: "/p1.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
   },
@@ -87,15 +87,15 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Threads App",
-    des: "Social user interaction, community management, nested deep comments, notifications, real-time-search, and more.",
+    title: "Filmimg Commute",
+    des: "Social user interaction over a video editing app and community management.",
     img: "/p3.svg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
   },
   {
     id: 4,
-    title: "Banking App with Finance Management Dashboard",
-    des: "SaaS platform that connects multiple bank accounts, allows transactions, and manages finances altogether.",
+    title: "Animated 3D Websites",
+    des: "Developed multiple portfolio and brand niche websites using dynamic features.",
     img: "/p4.svg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
   },
