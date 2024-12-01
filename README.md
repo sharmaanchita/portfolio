@@ -11,6 +11,8 @@
 
   <h3 align="center">A Modern Next.js Portfolio</h3>
 
+Deployed Link - <a href= "https://www.anchitasharma.in/">My portfolio</a>
+
 ## <a name="introduction">🤖 Introduction</a>
 
 Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for beautiful animations, and styled with TailwindCSS, this portfolio demonstrates the developer's skills in a unique manner that creates a lasting impact.
